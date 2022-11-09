@@ -31,9 +31,16 @@ Instale my-project com npm pu yarn
 
 
 
+`
+
+
+## Screenshots
+
+![App Screenshot](https://user-images.githubusercontent.com/72679046/200747515-562b2e3c-0caf-434e-a2d8-70a330e2d695.jpg)
+
 ## Autores
 
-- [@Petterson Oliveira](https://github.com/pettersonPadilha)
+- [@Petterson Padilha](https://github.com/pettersonPadilha)
 
 
 
@@ -48,13 +55,4 @@ Instale my-project com npm pu yarn
 ## Licença
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-
-
-`
-
-
-## Screenshots
-
-![App Screenshot](https://user-images.githubusercontent.com/72679046/200747515-562b2e3c-0caf-434e-a2d8-70a330e2d695.jpg)
 
