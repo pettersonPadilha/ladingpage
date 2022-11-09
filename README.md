@@ -6,7 +6,7 @@
 
 ## Instalação
 
-Instale my-project com npm pu yarn 
+Instale my-project com npm ou yarn 
 
 ```bash
   yarn ou npm install
